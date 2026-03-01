@@ -71,6 +71,7 @@ For the RFM analysis, the original dataset was cleaned and aggregated to create 
    - Combined visualizations to compare non-outlier and outlier groups.
 
 ## Results and Interpretation
+<img width="1201" height="681" alt="image" src="https://github.com/user-attachments/assets/35ecf9fc-1d83-4440-8ffd-90368f8b9421" />
 
 - Clear differentiation of customer segments based on recency, frequency, and monetary value.
 - Identification of outlier customers representing either extremely valuable or infrequent shoppers.
