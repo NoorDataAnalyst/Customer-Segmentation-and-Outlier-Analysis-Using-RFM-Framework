@@ -64,7 +64,9 @@ For the RFM analysis, the original dataset was cleaned and aggregated to create 
    - Outliers grouped into clusters such as `High Monetary`, `High Frequency`, or `Both`.
    - Separate segment names like `PAMPER`, `UPSELL`, and `DELIGHT` assigned for clarity.
 
-4. **Visualization**  
+4. **Visualization**
+<img width="826" height="1184" alt="image" src="https://github.com/user-attachments/assets/d39c45f8-7a87-4480-a6ba-788476bf5744" />
+
    - Violin plots to visualize the distribution of R, F, and M across segments.
    - Heatmaps showing average RFM values per segment.
    - Bar charts displaying customer counts per segment.
@@ -73,7 +75,7 @@ For the RFM analysis, the original dataset was cleaned and aggregated to create 
 ## Results and Interpretation
 <img width="1201" height="681" alt="image" src="https://github.com/user-attachments/assets/35ecf9fc-1d83-4440-8ffd-90368f8b9421" />
 
-<img width="1151" height="407" alt="image" src="https://github.com/user-attachments/assets/9571c598-bcf3-43b2-9736-a275e10d8001" />
+ <img width="1151" height="407" alt="image" src="https://github.com/user-attachments/assets/9571c598-bcf3-43b2-9736-a275e10d8001" />
 
 
 ## Usage
